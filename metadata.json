@@ -1,0 +1,6 @@
+{
+  "name": "Inventory & Barcode Management System",
+  "description": "Sistem manajemen inventaris lengkap dengan pemindaian barcode/QR real-time, pembuatan QR code otomatis, dan notifikasi stok rendah.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
